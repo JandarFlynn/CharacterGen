@@ -1,0 +1,21 @@
+Races
+  Type | StrMod | DexMod | ConMod | IntMod | WisMod | ChaMod | Size | Speed | AutoLang1 | AutoLang2 | AutoLang3 | AutoLang4 | OptLang1 | OptLang2 | OptLang3 | OptLang4 | OptLang5 | OptLang6
+
+Classes
+  Name | Type | HitDice | SkillPoints | WeaponType1 | WeaponType2 | WeaponType3 | ArmorType1 | ArmorType2 | ArmorType3 | ArmorType4 | ArmorType5
+
+Skills
+  Class | Skill1 | Skill2 | Skill3 | Skill4 | Skill5 | Skill6 | Skill7
+
+Feats
+
+
+Weapons
+  Name | Type | Size | Damage | CritRange | CritDmg | Range | Weight | DmgType
+
+Armor
+  Name | Type | AC | MaxDex | CheckPenalty | SpellFail | SpeedPen | Weight
+
+BuildTypes
+  Class | Stat1 | Stat2 | Stat3 | Stat4 | Stat5 | Stat6
+

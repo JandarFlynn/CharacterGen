@@ -1,0 +1,6 @@
+Classes
+  Name - Fighter, Rogue, Sorcerer, etc.
+
+  Type - Combat, Healer, Caster, Support
+
+  

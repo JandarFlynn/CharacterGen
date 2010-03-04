@@ -1,0 +1,17 @@
+Races
+  Dwarf | +2 Constitution | -2 Charisma | (null) | (null) | Medium | 20 ft. | Common | Dwarven | Giant | Gnome | Goblin | Orc | Terran | Undercommon
+
+Classes
+  Fighter | Combat | d8 | 2+INT | Simple | Martial | (NULL) | Light | Light Shield | Medium | Heavy | Heavy Shield
+
+Skills
+  Fighter | Climb | Craft | Handle Animal | Intimidate | Jump | Ride | Swim
+
+Feats
+
+
+Weapons
+  Battle Axe | Martial | 1 Handed | d8 | 20 | x3 | 0 | 6 lbs. | Slashing
+
+Armor
+  Breastplate | Medium | 5 | 3 | 4 | 25% | 0.25 | 30 lbs.

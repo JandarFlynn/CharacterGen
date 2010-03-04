@@ -1,0 +1,13 @@
+Races
+  Type - Human, Elf, Half-Elf, Dwarf, etc.
+
+  StatMod - +2 Cha, -2 Dex  -  Do I need to break this down more and put the stat and the mod in separate columns?
+
+  Trait - Low Light Vision, Immune to Enchantments, etc.
+
+  AutoLang - Languages Known - Elvish, Common, etc.
+
+  OptLang - Table for optional languages that will be chosen during character generation
+
+  Preferred Classes - ? Not included currently, should it be?  And what would it mean?
+               Possibly assign percentages that will lend a slightly higher chance of this class being chosen for a character of this race?

@@ -26,40 +26,14 @@ end
 
 assignName
 
+# Assigning Stats
 puts "Here are your stats:"
 
-st = dice(6,3)
-until st > 3
-  st = dice(6,3)
+["Str" , "Dex" , "Con" , "Int" , "Wis" , "Cha"].each do |attribute|
+  stat = dice(6,3)
+  until stat > 5
+    stat = dice(6,3)
+  end
+  puts "#{attribute}: #{stat}"
 end
-puts "Str: #{st}"
 
-dex = dice(6,3)
-until dex > 3
-  dex = dice(6,3)
-end
-puts "Dex: #{dex}"
-
-con = dice(6,3)
-until con > 3
-  con = dice(6,3)
-end
-puts "Con: #{con}"
-
-int = dice(6,3)
-until int > 3
-  int = dice(6,3)
-end
-puts "Int: #{int}"
-
-wis = dice(6,3)
-until wis > 3
-  wis = dice(6,3)
-end
-puts "Wis: #{wis}"
-
-cha = dice(6,3)
-until cha > 3
-  cha = dice(6,3)
-end
-puts "Cha: #{cha}"
